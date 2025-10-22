@@ -1,0 +1,1588 @@
+=== 颜色调试信息 ===
+段落文本: '对于政策动态变化，建议建立"政策跟踪-风险评估-措施调整"的响应机制，可定期关注常德市住建局、市场监管局官网及"常德政企通"平台发布的监管信息，对节能材料标准更新、环保限产通知等政策提前预判，避免因信息滞后导致合规成本激增。通过上述措施，可显著降低经营中断风险，为长期稳定发展奠定基础。'
+段落有 144 个run
+简单格式化结果: <font color="#FF0000"><font face="SimSun">对于政策动态变化，建议建立"政策跟踪-风险评估-措施调整"的响应机制，可定期关注常德市住建局、市场监管局官网及"常德政企通"平台发布的监管信息，对节能材料标准更新、环保限产通知等政策提前预判，避免因信息滞后导致合规成本激增。通过上述措施，可显著降低经营中断风险，为长期稳定发展奠定基础。</font></font>
+
+--- Run 1 ---文本: ''
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bfef0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 2 ---文本: '对'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011be8d0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 3 ---文本: '于'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bf7d0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 4 ---文本: '政'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bfd10>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 5 ---文本: '策'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bdfd0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 6 ---文本: '动'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bd9d0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 7 ---文本: '态'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bec30>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 8 ---文本: '变'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bd490>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 9 ---文本: '化'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bf350>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 10 ---文本: '，'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011be3f0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 11 ---文本: '建'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bd610>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 12 ---文本: '议'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011beff0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 13 ---文本: '建'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bd790>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 14 ---文本: '立'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bf830>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 15 ---文本: '"'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bdc70>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 16 ---文本: '政'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bedb0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 17 ---文本: '策'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bdf10>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 18 ---文本: '跟'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bdf70>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 19 ---文本: '踪'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bf170>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 20 ---文本: '-'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bebd0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 21 ---文本: '风'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011be630>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 22 ---文本: '险'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bec90>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 23 ---文本: '评'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011be210>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 24 ---文本: '估'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bf530>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 25 ---文本: '-'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011be030>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 26 ---文本: '措'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bf050>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 27 ---文本: '施'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bfe30>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 28 ---文本: '调'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bd5b0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 29 ---文本: '整'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bd370>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 30 ---文本: '"'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bf2f0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 31 ---文本: '的'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bd7f0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 32 ---文本: '响'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bd730>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 33 ---文本: '应'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011be270>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 34 ---文本: '机'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bd6d0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 35 ---文本: '制'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011be870>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 36 ---文本: '，'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011be990>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 37 ---文本: '可'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bf6b0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 38 ---文本: '定'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bf290>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 39 ---文本: '期'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bfa10>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 40 ---文本: '关'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bf0b0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 41 ---文本: '注'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bff50>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 42 ---文本: '常'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bfcb0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 43 ---文本: '德'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bdbb0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 44 ---文本: '市'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bd310>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 45 ---文本: '住'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011be450>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 46 ---文本: '建'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bd8b0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 47 ---文本: '局'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bef90>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 48 ---文本: '、'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bf5f0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 49 ---文本: '市'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011be510>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 50 ---文本: '场'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bf230>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 51 ---文本: '监'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bfbf0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 52 ---文本: '管'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011be6f0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 53 ---文本: '局'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bee70>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 54 ---文本: '官'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011be2d0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 55 ---文本: '网'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bd910>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 56 ---文本: '及'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bd670>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 57 ---文本: '"'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bea50>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 58 ---文本: '常'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bf9b0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 59 ---文本: '德'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bdc10>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 60 ---文本: '政'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011be690>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 61 ---文本: '企'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bed50>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 62 ---文本: '通'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bf110>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 63 ---文本: '"'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011be5d0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 64 ---文本: '平'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011beab0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 65 ---文本: '台'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bddf0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 66 ---文本: '发'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bde50>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 67 ---文本: '布'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bf3b0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 68 ---文本: '的'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bf890>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 69 ---文本: '监'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011be750>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 70 ---文本: '管'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bf1d0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 71 ---文本: '信'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011be1b0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 72 ---文本: '息'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bfb90>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 73 ---文本: '，'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bdaf0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 74 ---文本: '对'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bda30>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 75 ---文本: '节'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bfe90>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 76 ---文本: '能'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bdcd0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 77 ---文本: '材'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011beb70>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 78 ---文本: '料'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bdeb0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 79 ---文本: '标'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bd970>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 80 ---文本: '准'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bd2b0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 81 ---文本: '更'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011beed0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 82 ---文本: '新'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011bd3d0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 83 ---文本: '、'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e011be090>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 84 ---文本: '环'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208050>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 85 ---文本: '保'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e012080b0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 86 ---文本: '限'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208110>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 87 ---文本: '产'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208170>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 88 ---文本: '通'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e012081d0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 89 ---文本: '知'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208230>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 90 ---文本: '等'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208290>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 91 ---文本: '政'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e012082f0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 92 ---文本: '策'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208350>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 93 ---文本: '提'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e012083b0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 94 ---文本: '前'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208410>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 95 ---文本: '预'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208470>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 96 ---文本: '判'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e012084d0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 97 ---文本: '，'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208530>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 98 ---文本: '避'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208590>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 99 ---文本: '免'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e012085f0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 100 ---文本: '因'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208650>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 101 ---文本: '信'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e012086b0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 102 ---文本: '息'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208710>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 103 ---文本: '滞'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208770>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 104 ---文本: '后'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e012087d0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 105 ---文本: '导'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208830>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 106 ---文本: '致'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208890>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 107 ---文本: '合'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e012088f0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 108 ---文本: '规'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208950>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 109 ---文本: '成'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e012089b0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 110 ---文本: '本'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208a10>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 111 ---文本: '激'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208a70>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 112 ---文本: '增'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208ad0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 113 ---文本: '。'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208b30>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 114 ---文本: '通'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208b90>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 115 ---文本: '过'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208bf0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 116 ---文本: '上'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208c50>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 117 ---文本: '述'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208cb0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 118 ---文本: '措'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208d10>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 119 ---文本: '施'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208d70>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 120 ---文本: '，'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208dd0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 121 ---文本: '可'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208e30>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 122 ---文本: '显'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208e90>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 123 ---文本: '著'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208ef0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 124 ---文本: '降'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208f50>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 125 ---文本: '低'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01208fb0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 126 ---文本: '经'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01209010>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 127 ---文本: '营'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01209070>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 128 ---文本: '中'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e012090d0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 129 ---文本: '断'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01209130>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 130 ---文本: '风'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01209190>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 131 ---文本: '险'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e012091f0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 132 ---文本: '，'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01209250>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 133 ---文本: '为'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e012092b0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 134 ---文本: '长'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01209310>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 135 ---文本: '期'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01209370>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 136 ---文本: '稳'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e012093d0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 137 ---文本: '定'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01209430>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 138 ---文本: '发'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01209490>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 139 ---文本: '展'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e012094f0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 140 ---文本: '奠'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01209550>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 141 ---文本: '定'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e012095b0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 142 ---文本: '基'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01209610>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 143 ---文本: '础'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e01209670>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+
+
+--- Run 144 ---文本: '。'
+粗体: None
+斜体: None
+下划线: None
+颜色属性: 存在
+color类型: <class 'docx.dml.color.ColorFormat'>
+color.__dict__: {'_element': <CT_R '<w:r>' at 0x24e012096d0>, '_parent': None}
+color.rgb: None (类型: <class 'NoneType'>)
+color.theme_color: None (类型: <class 'NoneType'>)
+

@@ -1,8 +1,8 @@
 @echo off
 
-pip install docx2pdf==0.1.8
-pip install pyinstaller==5.13.0
+pip install docx2pdf
+pip install pyinstaller
 
-pyinstaller --onefile --windowed --noconsole --name "WordToPdfConverter" word_to_pdf_converter.py
+pyinstaller --onefile --windowed --noconsole --name "WordToPdfConverter_new" word_to_pdf_converter.py
 
 echo 打包完成！
